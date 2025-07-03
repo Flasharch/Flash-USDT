@@ -11,7 +11,7 @@
    - Defined the charges of the              tronscan networks for a quick           full confirmation
    - VPN and TOR options included with       proxy
    - Can check the tronscan address          before transaction
-   - Maximum 1000 USDT for Basic             package & 10M USDT for Premium          package.
+   - Maximum 1M USDT for Basic             package & 100M USDT for Premium          package.
    - USDT is Spendable & Transferable        to 100 wallets
    - Transaction can get full                confirmation
    - Support all wallet
